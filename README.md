@@ -1,4 +1,5 @@
 # Escuela Nacional de Ciencias Biológicas -- ENCB
+![ENCB](https://www.encb.ipn.mx/assets/files/encb/img/escudos/escudoENCB.png "ENCB")
 Aquí estarán los códigos necesarios de los diferentes recursos, habrá 
 - LaTeX
 - Matlab
