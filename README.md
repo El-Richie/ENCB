@@ -9,7 +9,7 @@ Aquí estarán los códigos necesarios de los diferentes recursos, habrá
 
 | $$\LaTeX$$ | Matlab  | Python  |
 | ------------ | ------------ | ------------ |
-| <img width="" height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png">  |  <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"> |  <img width="32" height="32" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png">   |
+| <img width="" height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png">  |  <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"> |  <img width="32" height="32" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"> |
 
 #### **Estará en constante actualización.**
 ------------
