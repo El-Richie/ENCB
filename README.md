@@ -13,29 +13,19 @@ Aquí estarán los códigos necesarios de los diferentes recursos, habrá
 
 </center>
 
-<table>
-    <thead>
+<center>
+    <table>
         <tr>
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
-            <th align="right">Column1</th>
+            <td>Foo1</td> <td>Foo2</td>
         </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">Column1</td>
-            <td align="center">Column1</td>
-            <td align="right">Column1</td>
-        </tr>
-    </tbody>
-</table>
+    </table>
+</center>
 
 #### **Estará en constante actualización.**
 ------------
 ## Podrás encontrar las siguientes materías
 - CáLculo
 - Bioestadística
-
 ------------
 
 # Redes
