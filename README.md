@@ -16,7 +16,7 @@ Aquí estarán los códigos necesarios de los diferentes recursos, habrá
 #### **Estará en constante actualización.**
 ------------
 ## Podrás encontrar las siguientes materías
-- CáLculo
+- Cálculo
 - Bioestadística
 ------------
 
