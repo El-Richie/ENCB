@@ -1,7 +1,4 @@
-<div align="center">
-  
-  # Escuela Nacional de Ciencias Biológicas -- ENCB
-</div>
+# Escuela Nacional de Ciencias Biológicas -- ENCB
   
 <p align="center">
   <img width="128" height="128" src="https://www.encb.ipn.mx/assets/files/encb/img/escudos/escudoENCB.png">
