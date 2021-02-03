@@ -1,6 +1,6 @@
 # Escuela Nacional de Ciencias Biológicas -- ENCB
 <p align="center">
-  <img width="460" height="300" src="https://www.encb.ipn.mx/assets/files/encb/img/escudos/escudoENCB.png">
+  <img width="170" height="170" src="https://www.encb.ipn.mx/assets/files/encb/img/escudos/escudoENCB.png">
 </p>
 
 Aquí estarán los códigos necesarios de los diferentes recursos, habrá 
