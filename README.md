@@ -5,7 +5,9 @@
 
 Aquí estarán los códigos necesarios de los diferentes recursos, habrá 
 - LaTeX
-- Matlab
+- Matlab <p align="left">
+  <img width="128" height="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png">
+</p>
 - Python
 - Alguno que otro colado. 
 #### **Estará en constante actualización.**
