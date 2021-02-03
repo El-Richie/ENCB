@@ -13,13 +13,13 @@ Aquí estarán los códigos necesarios de los diferentes recursos, habrá
 
 </center>
 
-<center>
-    <table>
-        <tr>
-            <td>Foo1</td> <td>Foo2</td>
-        </tr>
-    </table>
-</center>
+<div align="center">
+
+## My title
+
+![My image](logo.png)
+
+</div>
 
 #### **Estará en constante actualización.**
 ------------
