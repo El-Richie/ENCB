@@ -13,6 +13,6 @@ Aquí estarán los códigos necesarios de los diferentes recursos, habrá
 ------------
 
 # Redes
-[Facebook](https://www.facebook.com/aniMATEnserio "Facebook")
-[Discord](https://discord.gg/anptUTkf "Discord")
-[YouTube](https://www.youtube.com/c/aniMATE1 "YouTube")
+- [Facebook](https://www.facebook.com/aniMATEnserio "Facebook")
+- [Discord](https://discord.gg/anptUTkf "Discord")
+- [YouTube](https://www.youtube.com/c/aniMATE1 "YouTube")
